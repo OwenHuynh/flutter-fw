@@ -1,0 +1,4 @@
+arb-dir: lib/shared/localizations/l10n/generated/translate_resources
+template-arb-file: app_en.arb
+output-class: Localy
+untranslated-messages-file: lib/shared/localizations/l10n/generated/untranslated_keys_info.json

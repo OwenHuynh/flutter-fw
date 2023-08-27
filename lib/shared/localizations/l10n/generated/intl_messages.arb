@@ -1,0 +1,218 @@
+{
+  "@@last_modified": "2023-08-27T13:02:15.150483",
+  "commonOk": "Ok",
+  "@commonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commonCancel": "Cancel",
+  "@commonCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "networkError": "An error occurred. We will record and fix this issue soon!",
+  "@networkError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "parseError": "Data parsing error!",
+  "@parseError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connectTimeoutError": "Connection timeout with API server!",
+  "@connectTimeoutError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendTimeoutError": "Send timeout in connection with API server!",
+  "@sendTimeoutError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "receiveTimeoutError": "Receive timeout in connection with API server!",
+  "@receiveTimeoutError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelError": "Request to API server was cancelled!",
+  "@cancelError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "splashScreenScreenTitle": "Splash screen",
+  "@splashScreenScreenTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeesEditorScreenLabelUpdateEmployee": "Update employee",
+  "@employeesEditorScreenLabelUpdateEmployee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeesEditorScreenLabelRemoveEmployee": "Remove employee",
+  "@employeesEditorScreenLabelRemoveEmployee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeesEditorScreenLabelErrorPage": "Oops, Something Went Wrong",
+  "@employeesEditorScreenLabelErrorPage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeesEditorScreenLabelCreateSuccessfully": "Create successfully!",
+  "@employeesEditorScreenLabelCreateSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeesEditorScreenLabelUpdateSuccessfully": "Update successfully!",
+  "@employeesEditorScreenLabelUpdateSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeesEditorScreenLabelRemoveSuccessfully": "Remove successfully!",
+  "@employeesEditorScreenLabelRemoveSuccessfully": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notesEditorScreenLabelTitleConfirmRemoveNote": "Remove note",
+  "@notesEditorScreenLabelTitleConfirmRemoveNote": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notesEditorScreenLabelDescriptionConfirmRemoveNote": "Are you sure you want to delete this note?",
+  "@notesEditorScreenLabelDescriptionConfirmRemoveNote": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelAppBarTitle": "Login Page",
+  "@loginScreenLabelAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelTitlePage": "Welcome",
+  "@loginScreenLabelTitlePage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelSubTitle": "Sign in with your email and password",
+  "@loginScreenLabelSubTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelEmail": "Email",
+  "@loginScreenLabelEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelPassword": "Password",
+  "@loginScreenLabelPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelEmailErrorMessage": "Please input email",
+  "@loginScreenLabelEmailErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelEmailTypeErrorMessage": "Please input correct email. Example: sample@gmail.com",
+  "@loginScreenLabelEmailTypeErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelPasswordErrorMessage": "Please input password",
+  "@loginScreenLabelPasswordErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelPasswordLengthErrorMessage": "Please input correct password. it must be greater than 6.",
+  "@loginScreenLabelPasswordLengthErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelLoginButton": "Login",
+  "@loginScreenLabelLoginButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeesEditorScreenLabelTitleConfirmRemoveEmployee": "Remove employee",
+  "@employeesEditorScreenLabelTitleConfirmRemoveEmployee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeesEditorScreenLabelAddEmployee": "Add employee",
+  "@employeesEditorScreenLabelAddEmployee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeesEditorScreenLabelDescriptionConfirmRemoveEmployee": "Are you sure you want to delete this employee?",
+  "@employeesEditorScreenLabelDescriptionConfirmRemoveEmployee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeesEditorScreenLabelDescriptionConfirmUpdateEmployee": "Are you sure you want to update this employee?",
+  "@employeesEditorScreenLabelDescriptionConfirmUpdateEmployee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeeScreen": "Employees Screen",
+  "@employeeScreen": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "oops": "Oops, Something Went Wrong",
+  "@oops": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "retry": "Retry",
+  "@retry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "employeeEditorScreen": "Employee Editor Screen",
+  "@employeeEditorScreen": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nameEmployee": "Name:",
+  "@nameEmployee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ageEmployee": "Age:",
+  "@ageEmployee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailEmployee": "Email:",
+  "@emailEmployee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "textErrorName": "Please enter input name",
+  "@textErrorName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "textErrorAge": "Please enter input age",
+  "@textErrorAge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "textErrorEmail": "Please enter input email",
+  "@textErrorEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailNotValid": "Email is not valid",
+  "@emailNotValid": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
